@@ -1,0 +1,28 @@
+html{
+	font-family: 'Verdana', 'Geneva', 'Arial' ;
+    }
+P{
+  font-size: 12px;
+  }    
+p,h1{
+  font-size: 2.2em;
+    }
+p,h2{
+  font-size: 1.3em;
+  font-weight:normal; 
+    }
+h1,h2{
+  color: #CC6600;
+  border-bottom: thin dotted #888888;
+    }
+blockquote{
+        font-style:italic;
+          }
+body{
+color: royalblue;
+	color: rgb(65, 105, 225);
+	color: #4169E1CC;
+	color: rgba(39,177,182,0.8);
+	color: #2775b6CC;
+	background-color: rgb(209, 194, 211);
+}
