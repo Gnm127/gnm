@@ -16,5 +16,15 @@
     margin-left: 1210px;
 }
 table{
-    border: 1;
+    font-size: 13px;
+    border:groove 1px;
+    margin-top: 40px ;
+    margin-left: 500px;
+    width: 560px;
+    height: 250px;
+    
+}
+.c{
+    font-size: 20px;
+
 }
