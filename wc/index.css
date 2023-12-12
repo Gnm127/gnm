@@ -1,0 +1,57 @@
+main .park .wild_life {
+    width: 100%;
+    margin: 50px auto;
+  }
+   main .park .wild_life img {
+    width: 100%;
+  }
+   main .park .wild_life p {
+    padding: 10px 0;
+    font-size: 12px;
+  }
+   main .park .wild_life p:last-child {
+    padding: 20px 0;
+    text-align: right;
+    font-size: 16px;
+  }
+   main .park .helpful {
+    margin: 20px auto;
+    width: 50%;
+    border: 1px solid #ccc;
+    padding: 18px 18px 0 18px;
+  }
+   main .park .helpful .help_item {
+    position: relative;
+    box-sizing: border-box;
+    width: 100%;
+    border: 2px solid #e6e6e6;
+    border-radius: 6px;
+    padding: 10px 40px;
+    margin: 10px 0;
+  }
+   main .park .helpful .help_item:first-of-type {
+    margin-top: 40px;
+  }
+   main .park .helpful .help_item:last-of-type {
+    margin-bottom: 40px;
+  }
+   main .park .helpful .help_item::before {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 2px solid #71767a;
+    left: 10px;
+  }
+   main .park .helpful p {
+    background-color: #f0f0f0;
+    width: 100%;
+    padding: 6px 18px;
+    margin-left: -18px;
+    font-size: 12px;
+    color: #1b1b1b;
+  }
+   main .park .helpful p a {
+    color: #005999;
+  }
