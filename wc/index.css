@@ -1,26 +1,26 @@
-main .park .wild_life {
+.wildlife {
     width: 100%;
     margin: 50px auto;
   }
-   main .park .wild_life img {
+.wildlife img {
     width: 100%;
   }
-   main .park .wild_life p {
+.wildlife .a {
     padding: 10px 0;
     font-size: 12px;
   }
-   main .park .wild_life p:last-child {
+.wildlife .b{
     padding: 20px 0;
     text-align: right;
     font-size: 16px;
   }
-   main .park .helpful {
+.helpful {
     margin: 20px auto;
     width: 50%;
     border: 1px solid #ccc;
     padding: 18px 18px 0 18px;
   }
-   main .park .helpful .help_item {
+.helpful .help_item {
     position: relative;
     box-sizing: border-box;
     width: 100%;
@@ -29,13 +29,13 @@ main .park .wild_life {
     padding: 10px 40px;
     margin: 10px 0;
   }
-   main .park .helpful .help_item:first-of-type {
+.helpful .help_item:first-of-type {
     margin-top: 40px;
   }
-   main .park .helpful .help_item:last-of-type {
+.helpful .help_item:last-of-type {
     margin-bottom: 40px;
   }
-   main .park .helpful .help_item::before {
+.helpful .help_item::before {
     content: '';
     position: absolute;
     width: 20px;
@@ -44,7 +44,7 @@ main .park .wild_life {
     border: 2px solid #71767a;
     left: 10px;
   }
-   main .park .helpful p {
+.helpful p {
     background-color: #f0f0f0;
     width: 100%;
     padding: 6px 18px;
@@ -52,6 +52,6 @@ main .park .wild_life {
     font-size: 12px;
     color: #1b1b1b;
   }
-   main .park .helpful p a {
+.helpful p a {
     color: #005999;
   }
