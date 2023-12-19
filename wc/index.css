@@ -28,6 +28,7 @@
     border-radius: 6px;
     padding: 10px 40px;
     margin: 10px 0;
+    cursor: pointer;
   }
 .helpful .help_item:first-of-type {
     margin-top: 40px;
