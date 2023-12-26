@@ -437,7 +437,7 @@ ul {
   background-image: url('../icon/right1.png');
 }
 .container main .park .wild_life {
-  width: 100%;
+  width: 80%;
   margin: 50px auto;
 }
 .container main .park .wild_life img {
@@ -465,7 +465,7 @@ ul {
   position: relative;
   box-sizing: border-box;
   width: 100%;
-  border: 3px solid #dfdbdbd0;
+  border: px solid #dfdbdbd0;
   border-radius: 6px;
   padding: 15px 40px;
   margin: 10px 0;
